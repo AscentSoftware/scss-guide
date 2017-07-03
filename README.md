@@ -349,6 +349,7 @@ It is not nessesary to remember these, as the style and formatting should be aut
 
 * [Atom](https://atom.io/packages/linter-sass-lint)
 * [Sublime Text](https://github.com/skovhus/SublimeLinter-contrib-sass-lint)
+* [TextMate 2](https://github.com/jjuliano/SCSS-Lint.tmbundle)
 * [Brackets](https://github.com/petetnt/brackets-sass-lint)
 * [IntelliJ IDEA, RubyMine, WebStorm, PhpStorm, PyCharm](https://github.com/idok/sass-lint-plugin)
 * [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=glen-84.sass-lint)
